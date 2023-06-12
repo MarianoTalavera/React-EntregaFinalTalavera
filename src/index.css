@@ -1,0 +1,20 @@
+* {
+  font-family: 'Noticia Text', serif;
+}
+
+body {
+  background-color: rgb(234, 243, 233);
+  margin: 0rem;
+  font-family: 'Noticia Text', serif;
+  background-image: url("../public/img/tea-drink-break.jpg");
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Noticia Text', serif;
+}
+
+.active {
+  color: grey!important;
+}

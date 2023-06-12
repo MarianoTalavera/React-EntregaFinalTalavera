@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid white;
+    background: linear-gradient(#d7e8d2, #3ab02b);
+}
+
+li {
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+.imgTe {
+    width: 20rem;
+}
